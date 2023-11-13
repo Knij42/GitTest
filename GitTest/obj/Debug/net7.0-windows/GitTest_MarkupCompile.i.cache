@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 F:\VSCode\GitTest\GitTest\App.xaml
-2-2016695974
-
-6-1734906411
+4653576415
+21911950500
+8-1926977244
 198-1736014856
-MainWindow.xaml;Pages\MainPage.xaml;
+MainWindow.xaml;Pages\BMIPage.xaml;Pages\BMRPage.xaml;Pages\MainPage.xaml;
 
 False
 

@@ -6,9 +6,12 @@
       xmlns:local="clr-namespace:GitTest.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="MainPage">
+      Title="Главное меню">
 
-    <Grid>
-        
+    <Grid Background="{StaticResource main_bg}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Style="{StaticResource Btn-default}" Content="BMI Калькулятор" Click="Button_Click"></Button>
+            <Button Style="{StaticResource Btn-default}" Content="BMR Калькулятор" Click="Button_Click_1"></Button>
+        </StackPanel>
     </Grid>
 </Page>
