@@ -24,7 +24,7 @@ namespace GitTest
         {
             InitializeComponent();
             WindowStartupLocation= WindowStartupLocation.CenterScreen;
-            //MainFrame.Navigate(new Pages.MainPage);
+            MainFrame.Navigate(new Pages.MainPage());
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

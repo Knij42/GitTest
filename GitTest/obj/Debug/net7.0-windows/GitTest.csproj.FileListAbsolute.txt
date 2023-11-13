@@ -20,3 +20,12 @@ F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\refint\GitTest.dll
 F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\GitTest.pdb
 F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\GitTest.genruntimeconfig.cache
 F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\ref\GitTest.dll
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\Pages\MainPage.g.cs
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\Pages\MainPage.baml
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\Pages\BMIPage.g.cs
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\Pages\BMRPage.g.cs
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\Pages\BMIPage.baml
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\Pages\BMRPage.baml
+F:\VSCode\GitTest\GitTest\bin\Debug\net7.0-windows\images\female-icon.png
+F:\VSCode\GitTest\GitTest\bin\Debug\net7.0-windows\images\male-icon.png
+F:\VSCode\GitTest\GitTest\obj\Debug\net7.0-windows\GitTest_Content.g.cs
